@@ -56,7 +56,7 @@ h1 {
 )
 
 #title and description:
-st.markdown("<h1> Unit Convertor using Python and Streamlit </h1>", unsafe_allow_html=True)
+st.markdown("<h1> Ultimate Unit Convertor </h1>", unsafe_allow_html=True)
 st.write("Easily covert between different units of Length, Weight, Temperature.")
 
 #sidebar menu
